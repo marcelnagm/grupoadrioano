@@ -2,9 +2,11 @@
 
 #### Rode 
 
-composer install
+<br>composer install
+<br>
 php artisan migrate
-php artisan db:seed
+<br>
+php artisan db:seed initial_data
 
 
 Usuario para login
