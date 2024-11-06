@@ -10,6 +10,7 @@ php artisan db:seed initial_data
 
 
 Usuario para login
-
-admin@localhost /admin
-user@localhost /user
+<br>
+admin@localhost /pass: admin
+<br>
+user@localhost /pass: user
